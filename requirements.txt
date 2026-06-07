@@ -4,7 +4,7 @@ PyPDF2
 langchain
 langchain-text-splitters
 langchain-community
-langchain-openai
+langchain-groq
 InstructorEmbedding
 sentence-transformers
 faiss-cpu
