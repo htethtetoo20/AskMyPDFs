@@ -3,3 +3,8 @@ dotenv
 PyPDF2
 langchain
 langchain-text-splitters
+langchain-community
+langchain-openai
+InstructorEmbedding
+sentence-transformers
+faiss-cpu
